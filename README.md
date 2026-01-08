@@ -22,5 +22,5 @@ This project was developed as a **Semester Project** during my **4th year** of *
 
 ## 👤 Author
 
-**Eng. Samaa Al-Din Saeed** Informatics Engineering Candidate - Class of 2025  
+**Eng. Samaa Aldeen Saeed** Informatics Engineering Candidate - Class of 2025  
 _Antioch Syrian University (ASU)_
